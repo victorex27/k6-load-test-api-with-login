@@ -70,7 +70,7 @@ export default function () {
   group("3. get my profile", () => {
     const res = http.get(`${BASE_URL}/users/me`, {
       headers: authHeaders,
-      tag: { name: "GET /users/me" },
+      tags: { name: "GET /users/me" },
     });
 
     check(res, {
