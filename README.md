@@ -1,3 +1,4 @@
+[![Watch the Video](https://img.youtube.com/vi/VWIntbYKzASk/maxresdefault.jpg)](https://www.youtube.com/watch?v=WIntbYKzASk)
 # k6 load testing a real API (FastAPI + JWT auth)
 
 Companion code for the video **"How do you load test a real API with login? Your first k6 script in 15 minutes"**.
